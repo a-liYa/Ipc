@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <service
-            android:name=".MediaService"
+            android:name=".media.MediaService"
             android:enabled="true"
             android:exported="true"
             android:process=":media" />
